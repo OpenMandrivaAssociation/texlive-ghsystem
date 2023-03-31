@@ -1,6 +1,6 @@
 Name:		texlive-ghsystem
 Version:	53822
-Release:	1
+Release:	2
 Summary:	Globally harmonised system of chemical (etc) naming
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ghsystem
