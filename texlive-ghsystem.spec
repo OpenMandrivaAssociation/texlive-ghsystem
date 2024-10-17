@@ -3,7 +3,7 @@ Version:	53822
 Release:	2
 Summary:	Globally harmonised system of chemical (etc) naming
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ghsystem
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ghsystem
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ghsystem.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ghsystem.doc.r%{version}.tar.xz
